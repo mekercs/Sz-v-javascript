@@ -1,2 +1,2 @@
-# Sz-v-javascript
+# Szív-javascript
 javascript szíp egyszerű for segítségével
